@@ -25,10 +25,10 @@ const bharath = {
   ],
 
   currentlyLearning: [
-    "Advanced RxJS & NgRx",
-    "Node.js & Express",
-    "CI/CD pipelines",
-    "Cloud Fundamentals (AWS)"
+    "Python & FastAPI",
+    "MySQL & PostgreSQL (Backend)",
+    "REST API Design & Backend Architecture",
+    "Fullstack: Angular + FastAPI"
   ],
 
   funFact: "I build dashboards that help factories run smarter ⚙️",
@@ -59,6 +59,12 @@ const bharath = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Highcharts](https://img.shields.io/badge/Highcharts-1F8DD6?style=flat-square&logo=highcharts&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+
+**Backend (Learning)**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -178,11 +184,11 @@ const bharath = {
 ## 🧱 Currently Learning
 
 ```
-🧱 RxJS & State Management  →  Advanced Operators, NgRx Store, Effects
-🌐 Backend Development      →  Node.js, Express.js, REST API Design
-☁️  Cloud Fundamentals       →  AWS Core Services, S3, EC2, IAM
-🐳 DevOps & CI/CD           →  GitHub Actions, Docker Compose, Pipeline Automation
-🎨 UI Architecture          →  Micro-Frontends, Module Federation
+🐍 Python & FastAPI        →  Pydantic Models, Async Routes, Dependency Injection
+🗄️  Databases (Backend)     →  MySQL & PostgreSQL, SQLAlchemy ORM, Migrations (Alembic)
+🔗 REST API Design         →  CRUD, Auth (JWT/OAuth2), OpenAPI Docs, Error Handling
+🧱 Fullstack Integration   →  Angular Frontend ↔ FastAPI Backend, CORS, HTTP Client
+🐳 DevOps & CI/CD          →  Docker Compose (multi-service), GitHub Actions
 ```
 
 ---
