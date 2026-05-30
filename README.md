@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharath%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Expert%20Frontend%20%7C%20Python%20%2B%20FastAPI%20Backend&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharath%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%203%2B%20Years%20Frontend%20%7C%20Python%20%2B%20FastAPI%20Backend&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Bharath+G+%F0%9F%91%8B;Fullstack+Developer+%7C+Angular+%2B+FastAPI;Expert+Frontend+%E2%80%A2+Python+Backend+%F0%9F%90%8D;Building+End-to-End+Industrial+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Bharath+G+%F0%9F%91%8B;Fullstack+Developer+%7C+Angular+%2B+FastAPI;3%2B+Years+in+Frontend+%26+Always+Learning+%F0%9F%93%9A;Building+End-to-End+Industrial+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@ const bharath = {
   name:       "Bharath G",
   location:   "Erode, Tamil Nadu, India 🇮🇳",
   degree:     "BE – Electrical & Electronics Engineering",
-  role:       "Fullstack Developer | Expert Frontend · Growing Backend",
+  role:       "Fullstack Developer | 3+ yrs Frontend · Growing Backend",
 
   stack: [
     "Angular", "TypeScript", "JavaScript",
@@ -33,7 +33,7 @@ const bharath = {
 
   funFact: "I build dashboards that help factories run smarter ⚙️",
 
-  motto: () => "Clean UI. Real-time data. Zero downtime.",
+  motto: () => "Always learning. Always building. Never stopping. 🚀",
 };
 ```
 
@@ -43,7 +43,7 @@ const bharath = {
 
 ## 🛠️ Tech Stack
 
-**Frontend — Expert**
+**Frontend — 3+ Years Experience**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
