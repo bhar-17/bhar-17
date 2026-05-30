@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharath%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer%20%7C%20Angular%20Specialist%20%7C%20Building%20Scalable%20Industrial%20Web%20Apps&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharath%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Expert%20Frontend%20%7C%20Python%20%2B%20FastAPI%20Backend&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Bharath+G+%F0%9F%91%8B;Associate+Software+Developer+%40+Ausweg;Angular+%7C+TypeScript+%7C+Docker+%7C+REST+APIs;Turning+Industrial+Data+Into+Smart+UIs+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Bharath+G+%F0%9F%91%8B;Fullstack+Developer+%7C+Angular+%2B+FastAPI;Expert+Frontend+%E2%80%A2+Python+Backend+%F0%9F%90%8D;Building+End-to-End+Industrial+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@ const bharath = {
   name:       "Bharath G",
   location:   "Erode, Tamil Nadu, India 🇮🇳",
   degree:     "BE – Electrical & Electronics Engineering",
-  role:       "Associate Software Developer @ Ausweg Info Controls",
+  role:       "Fullstack Developer | Expert Frontend · Growing Backend",
 
   stack: [
     "Angular", "TypeScript", "JavaScript",
@@ -25,10 +25,10 @@ const bharath = {
   ],
 
   currentlyLearning: [
-    "Python & FastAPI",
-    "MySQL & PostgreSQL (Backend)",
-    "REST API Design & Backend Architecture",
-    "Fullstack: Angular + FastAPI"
+    "Advanced FastAPI patterns",
+    "PostgreSQL optimization & query tuning",
+    "Fullstack architecture: Angular + FastAPI",
+    "Docker multi-service deployments"
   ],
 
   funFact: "I build dashboards that help factories run smarter ⚙️",
@@ -43,39 +43,36 @@ const bharath = {
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Frontend — Expert**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/Angular%20Material-009688?style=flat-square&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Highcharts](https://img.shields.io/badge/Highcharts-1F8DD6?style=flat-square&logo=highcharts&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
-**Backend (Learning)**
+**Backend — Growing**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Cloud & DevOps**
+**DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Databases & APIs**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
@@ -184,11 +181,11 @@ const bharath = {
 ## 🧱 Currently Learning
 
 ```
-🐍 Python & FastAPI        →  Pydantic Models, Async Routes, Dependency Injection
-🗄️  Databases (Backend)     →  MySQL & PostgreSQL, SQLAlchemy ORM, Migrations (Alembic)
-🔗 REST API Design         →  CRUD, Auth (JWT/OAuth2), OpenAPI Docs, Error Handling
-🧱 Fullstack Integration   →  Angular Frontend ↔ FastAPI Backend, CORS, HTTP Client
-🐳 DevOps & CI/CD          →  Docker Compose (multi-service), GitHub Actions
+🐍 FastAPI (Backend)        →  Routers, Pydantic Models, Async, JWT Auth, Middleware
+🗄️  PostgreSQL               →  Advanced Queries, Indexing, SQLAlchemy ORM, Alembic Migrations
+🗄️  MySQL (Backend)          →  Stored Procedures, Query Optimization, Backend Integration
+🔗 Fullstack Architecture   →  Angular Frontend ↔ FastAPI Backend, CORS, OpenAPI Docs
+🐳 Docker Compose           →  Multi-service stacks (Frontend + Backend + DB)
 ```
 
 ---
